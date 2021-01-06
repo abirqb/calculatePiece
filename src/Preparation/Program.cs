@@ -14,6 +14,7 @@ namespace Preparation
             var easy = new List<double>();
             easy.Add(12);
             easy.Add(2);
+            easy.Add(3);
 
             foreach(var ab in easy)
             {
